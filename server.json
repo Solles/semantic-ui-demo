@@ -1,0 +1,6 @@
+{
+    "name":"semantic-ui-demo",
+    "web":{
+        "webroot":"src"
+    }
+}
