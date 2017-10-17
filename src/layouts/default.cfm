@@ -1,3 +1,4 @@
+<cfoutput>
 <!doctype HTML>
 <html lang="en">
 	<head>
@@ -11,8 +12,7 @@
 		<script src="semantic/dist/semantic.min.js"></script>
 	</head>
 	<body>
-		<cfoutput>
-			#body#
-		</cfoutput>
+		#body#
 	</body>
 </html>
+</cfoutput>
